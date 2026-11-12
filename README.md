@@ -317,18 +317,3 @@ Run these commands according to the requirements of each module.
 These are potential enhancements, not claims about existing functionality.
 
 ---
-
-## License
-
-See the [`LICENSE`](LICENSE) file for licensing details.
-
-## Author
-
-**Srinivas Gorantla**
-
-- GitHub: [@Srinivas25046](https://github.com/Srinivas25046)
-- Repository: [Project Intelligence & Risk Advisor](https://github.com/Srinivas25046/project-intelligence-and-risk-advisor)
-
----
-
-*An AI-powered project intelligence platform demonstrating RAG, multi-agent workflows, document intelligence, and explainable project analytics.*
